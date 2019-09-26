@@ -16,7 +16,6 @@ public class TestFor {
         System.out.println(s3 == s1); //false
         String s5 = "zszs";
         String s6 = s3+s4;
-
         System.out.println(s5 == s6); //false
         final String s7 = "zs";
         final String s8 = "zs";
